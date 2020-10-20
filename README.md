@@ -1,14 +1,14 @@
 
 <img src="https://i.pinimg.com/originals/99/a6/2b/99a62ba62e84b8fc1ba73faea8dd9b48.gif" width="400" />
 
-## Hi everynyan 💕
+### Hi everynyan 💕
 
-### Suwadesu. Hajimemashite ! 🍜
+**Suwadesu. Hajimemashite !** 🍜
 
 # ❓ About me
 
-## Hi 
-### I'm a french beginner web developer, I love pasta and I love <a href="https://github.com/vidon123">Vidon</a>. 😇💖
+**Hi**
+**I'm a french beginner web developer, I love pasta and I love <a href="https://github.com/vidon123">Vidon</a>.** 😇💖
 
 # 🤫 Things you need to know:
 

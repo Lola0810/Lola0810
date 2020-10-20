@@ -1,18 +1,22 @@
 
 <img src="https://i.pinimg.com/originals/99/a6/2b/99a62ba62e84b8fc1ba73faea8dd9b48.gif" width="400" />
-### Hi there 👋
 
-<!--
-**Suwah/Suwah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi everynyan 💕
 
-Here are some ideas to get you started:
+Suwadesu. Hajimemashite ! 🍜
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# ❓ About me
+
+## Hi 
+### I'm a french beginner web developer, I love pasta and I love <a href="https://github.com/vidon123">Vidon</a>. 😇💖
+
+# 🤫 Things you need to know:
+
+- 😴 I'm lazy and I love sleeping
+- 💌 I'm not always available, Vidon kidnaps me :cry:
+- 👹 I'm a otaku but fuck off I'm not an girl who watch hentai :kannafuck:
+- 🍑 I like fruits :sweat:
+- 📂 I'm currently learning web development
+- 💭 If you want to contact me on discord : Suwaa#0832
+
+### That's all good bye 👋

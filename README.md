@@ -5,12 +5,12 @@
 
 **Suwadesu. Hajimemashite !** 🍜
 
-# ❓ About me
+## ❓ About me
 
 **Hi**
 **I'm a french beginner web developer, I love pasta and I love <a href="https://github.com/vidon123">Vidon</a>.** 😇💖
 
-# 🤫 Things you need to know:
+## 🤫 Things you need to know:
 
 - 😴 I'm lazy and I love sleeping
 - 💌 I'm not always available, Vidon kidnaps me :cry:

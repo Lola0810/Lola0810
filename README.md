@@ -17,6 +17,6 @@
 - 👹 I'm a otaku but fuck off I'm not an girl who watch hentai :kannafuck:
 - 🍑 I like fruits :blobsweat:
 - 📂 I'm currently learning web development
-- 💭 If you want to contact me on discord : Suwaa#0832
+- 💭 If you want to contact me on discord : Suwaa#0810
 
 #### That's all good bye 👋

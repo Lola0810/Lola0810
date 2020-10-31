@@ -14,7 +14,7 @@
 
 - 😴 I'm lazy and I love sleeping
 - 💌 I'm not always available, Vidon kidnaps me :02cry:
-- 👹 I'm a otaku but fuck off I'm not an girl who watch hentai :kannafuck:
+- 👹 I'm a otaku
 - 🍑 I like fruits :blobsweat:
 - 📂 I'm currently learning web development
 - 💭 If you want to contact me on discord : Suwaa#0810

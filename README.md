@@ -8,7 +8,7 @@
 ## ❓ About me
 
 **Hi**
-**I'm french ! I'm a beginner web developer, I like pasta and I love <a href="https://github.com/vidon123">Vidon</a>.** 😇💖
+**I'm french ! I'm a beginner web developer, I like pasta and I love <a href="https://github.com/Mattéo0810">Vidon</a>.** 😇💖
 
 ## 🤫 Things you need to know:
 

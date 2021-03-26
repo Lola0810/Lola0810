@@ -21,7 +21,7 @@
 
 ## My skills
 
-I study in class some languages,
+I study in class some languages, \
 \
 I specially do web development :
 

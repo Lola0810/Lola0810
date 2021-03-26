@@ -21,7 +21,7 @@
 
 ## My skills
 
-I study in class some languages, <\br>
+I study in class some languages, \
 I specially do web development :
 
 #### Front-end :
@@ -29,7 +29,7 @@ I specially do web development :
 I'm currently learning `Javascript`
 
 #### Back-end :
-`PHP` <\br>
+`PHP` \
 I'm currently learning `Python`
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lola0810&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

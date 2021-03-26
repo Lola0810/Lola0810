@@ -27,10 +27,12 @@ I specially do web development :
 
 #### Front-end :
 `HTML` `CSS` \
+\
 I'm currently learning `Javascript`
 
 #### Back-end :
 `PHP` \
+\
 I'm currently learning `Python`
 
 #### Other language I use :

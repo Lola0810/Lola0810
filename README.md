@@ -10,7 +10,7 @@
 **Hi**
 **I'm french ! I'm a beginner web developer, I like pasta and I love <a href="https://github.com/Matteo0810">Vidon</a>.** 😇💖
 
-### More things about me :
+#### More things about me :
 
 - 😴 I'm lazy and I love sleeping
 - 💌 I'm not always available, Vidon kidnaps me :02cry:
@@ -19,6 +19,24 @@
 - 📂 I'm currently learning web development
 - 💭 If you want to contact me on discord : Suwaa#0810
 
-#### That's all good bye 👋
+## My skills
+
+I study in class some languages,
+I specially do web development :
+
+####Front-end :
+`HTML` `CSS`
+I'm currently learning `Javascript`
+
+####Back-end :
+`PHP` 
+I'm currently learning `Python`
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lola0810&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+##My stats on GitHub :
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lola0810&show_icons=true&theme=synthwave)
+
+
+#### That's all good bye 👋

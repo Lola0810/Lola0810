@@ -10,7 +10,7 @@
 **Hi**
 **I'm french ! I'm a beginner web developer, I like pasta and I love <a href="https://github.com/Matteo0810">Vidon</a>.** 😇💖
 
-## 🤫 Things you need to know:
+### More things about me :
 
 - 😴 I'm lazy and I love sleeping
 - 💌 I'm not always available, Vidon kidnaps me :02cry:

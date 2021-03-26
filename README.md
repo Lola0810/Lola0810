@@ -45,7 +45,6 @@ I'm currently learning `Python`
 ### I do design too :
   
 **Web designer** 
-
 I use currently `AdobeXD` to do website
 
 ## My stats on GitHub :

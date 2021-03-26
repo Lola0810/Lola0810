@@ -35,7 +35,7 @@ I'm currently learning `Javascript`
 \
 I'm currently learning `Python`
 
-### Other language I use :
+### Other languages I use :
 `Python` `Arduino`
 
 ### Here is my graph : 

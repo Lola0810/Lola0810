@@ -8,7 +8,7 @@
 ## ❓ About me
 
 **Hi**
-**I'm french ! I'm a beginner web developer, I like pasta and I love <a href="https://github.com/Matteo0810">Vidon</a>.** 😇💖
+**I'm french ! I'm a beginner web developer, designer (currently web). I like pasta and I love <a href="https://github.com/Matteo0810">Vidon</a>.** 😇💖
 
 #### More things about me :
 
@@ -25,24 +25,24 @@ I study in class some languages, \
 \
 I specially do web development :
 
-#### Front-end :
+### Front-end :
 `HTML` `CSS` \
 \
 I'm currently learning `Javascript`
 
-#### Back-end :
+### Back-end :
 `PHP` \
 \
 I'm currently learning `Python`
 
-#### Other language I use :
+### Other language I use :
 `Python` `Arduino`
 
-#### Here is my graph : 
+### Here is my graph : 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lola0810&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-#### I do design :
+### I do design too :
 
 **Web designer** \
 I use currently `AdobeXD` to do website

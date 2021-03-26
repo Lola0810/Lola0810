@@ -32,6 +32,9 @@ I'm currently learning `Javascript`
 `PHP` \
 I'm currently learning `Python`
 
+#### Other language I use :
+`Python` `Arduino`
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lola0810&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My stats on GitHub :

@@ -49,7 +49,7 @@ I use currently `AdobeXD` to do website
 
 ## My stats on GitHub :
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lola0810&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lola0810&show_icons=true&theme=onedark)
 
 
 #### That's all good bye 👋

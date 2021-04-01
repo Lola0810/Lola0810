@@ -17,7 +17,7 @@
 - 👹 I'm a otaku
 - 🍑 I like fruits :blobsweat:
 - 📂 I'm currently learning web development
-- 💭 If you want to contact me on discord : Suwaa#0810
+- 💭 If you want to contact me on discord : Tsūyu#0810
 
 ## My skills
 

@@ -3,8 +3,6 @@
 
 ### Hello everynyan 💕
 
-**Suwadesu. Hajimemashite !** 🍜
-
 ## ❓ About me
 
 **Hi**
@@ -46,6 +44,3 @@ I currently use `AdobeXD`.
 ## My stats on GitHub :
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lola0810&show_icons=true&theme=onedark)
-
-
-#### That's all good bye 👋

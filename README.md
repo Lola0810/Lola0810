@@ -8,14 +8,10 @@
 ## ❓ About me
 
 **Hi**
-**I'm french ! I'm a beginner web developer, designer (currently web). I like pasta and I love <a href="https://github.com/Matteo0810">Vidon</a>.** 😇💖
+**I'm french ! I'm a beginner web developer, designer (currently web). <a href="https://github.com/Matteo0810">Vidon</a>.** 😇💖
 
 #### More things about me :
 
-- 😴 I'm lazy and I love sleeping
-- 💌 I'm not always available, Vidon kidnaps me :02cry:
-- 👹 I'm a otaku
-- 🍑 I like fruits :blobsweat:
 - 📂 I'm currently learning web development
 - 💭 If you want to contact me on discord : Tsūyu#0810
 

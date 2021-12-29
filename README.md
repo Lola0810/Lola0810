@@ -8,7 +8,7 @@
 ## ❓ About me
 
 **Hi**
-**I'm french ! I'm a beginner web developer, designer (currently web). <a href="https://github.com/Matteo0810">Vidon</a>.** 😇💖
+**I'm french ! I'm a beginner web developer, designer. <a href="https://github.com/Matteo0810">Vidon</a>.** 😇💖
 
 #### More things about me :
 

@@ -15,7 +15,7 @@
 
 ## My skills
 
-I study some languages in class\
+I study some languages in class
 
 
 ### Front-end :

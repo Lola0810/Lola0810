@@ -1,6 +1,4 @@
 
-<img src="https://i.pinimg.com/originals/99/a6/2b/99a62ba62e84b8fc1ba73faea8dd9b48.gif" width="400" />
-
 ### Hi everyone 💕
 
 ## ❓ About me

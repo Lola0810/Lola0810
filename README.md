@@ -25,7 +25,6 @@ I'm currently learning `Javascript`
 
 ### Back-end :
 `PHP` `JavaSCript` 
-\
 
 ### Other languages I use :
 `Python`
@@ -45,11 +44,11 @@ Still learning how `Figma` works \
 
 **Design**  \
 `Adobe Illustrator` 
-\
+
 
 **Video montage**  \
 `Adobe Premiere Pro` 
-\
+
 
 ## My stats on GitHub :
 

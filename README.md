@@ -30,7 +30,7 @@ I'm currently learning `Javascript`
 
 ## I do other things too :
   
-###Web design
+### Web design
 `AdobeXD`
 Still learning how `Figma` works \
 
@@ -38,7 +38,7 @@ Still learning how `Figma` works \
 `Adobe Illustrator` 
 
 
-###Video montage
+### Video montage
 `Adobe Premiere Pro` 
 
 

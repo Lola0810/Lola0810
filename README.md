@@ -14,9 +14,6 @@
 
 ## My skills
 
-I study some languages in class
-
-
 ### Front-end :
 `HTML` `CSS` 
 \

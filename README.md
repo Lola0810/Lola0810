@@ -15,9 +15,8 @@
 
 ## My skills
 
-I study in class some languages, \
+I study some languages in classe\
 \
-I specially do web development :
 
 ### Front-end :
 `HTML` `CSS` \

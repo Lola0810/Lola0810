@@ -28,10 +28,6 @@ I'm currently learning `Javascript`
 ### Framework I use sometimes :
 `ReactJS` `ExpressJS`
 
-### Here is my graph : 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lola0810&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## I do other things too :
   
 ###Web design
@@ -47,5 +43,7 @@ Still learning how `Figma` works \
 
 
 ## My stats on GitHub :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lola0810&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lola0810&show_icons=true&theme=onedark)

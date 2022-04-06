@@ -1,12 +1,13 @@
 
 <img src="https://i.pinimg.com/originals/99/a6/2b/99a62ba62e84b8fc1ba73faea8dd9b48.gif" width="400" />
 
-### Hello everynyan 💕
+### Hi everyone 💕
 
 ## ❓ About me
 
 **Hi**
 **I'm french ! I'm a beginner web developer, designer. <a href="https://github.com/Matteo0810">Vidon</a>.** 😇💖
+**Still a student in high school !""
 
 #### More things about me :
 

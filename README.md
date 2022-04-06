@@ -11,7 +11,7 @@
 #### More things about me :
 
 - 📂 I'm currently learning web development
-- 💭 If you want to contact me on discord : Tsūyu#0810
+- 💭 If you want to contact me on discord : Tsū#1491
 
 ## My skills
 

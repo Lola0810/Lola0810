@@ -32,7 +32,7 @@ I'm currently learning `Javascript`
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lola0810&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### I do other things too :
+## I do other things too :
   
 **Web design** \
 `AdobeXD`

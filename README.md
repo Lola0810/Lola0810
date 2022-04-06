@@ -34,15 +34,15 @@ I'm currently learning `Javascript`
 
 ## I do other things too :
   
-**Web design** \
+###Web design
 `AdobeXD`
 Still learning how `Figma` works \
 
-**Design**  \
+###Design
 `Adobe Illustrator` 
 
 
-**Video montage**  \
+###Video montage
 `Adobe Premiere Pro` 
 
 

@@ -24,12 +24,14 @@ I study some languages in class\
 I'm currently learning `Javascript`
 
 ### Back-end :
-`PHP` \
+`PHP` `JavaSCript` \
 \
-I'm currently learning `Python`
 
 ### Other languages I use :
-`Python` `Arduino`
+`Python`
+
+### Framework I use sometimes :
+`ReactJS` `ExpressJS`
 
 ### Here is my graph : 
 
@@ -39,6 +41,12 @@ I'm currently learning `Python`
   
 **Web designer** \
 I currently use `AdobeXD`.
+
+**Design**  \
+`Adobe Illustrator`
+
+**Video montage**  \
+`Adobe Premiere Pro`
 
 ## My stats on GitHub :
 

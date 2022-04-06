@@ -19,12 +19,12 @@ I study some languages in class\
 
 
 ### Front-end :
-`HTML` `CSS` \
+`HTML` `CSS` 
 \
 I'm currently learning `Javascript`
 
 ### Back-end :
-`PHP` `JavaSCript` \
+`PHP` `JavaSCript` 
 \
 
 ### Other languages I use :
@@ -44,10 +44,12 @@ I'm currently learning `Javascript`
 Still learning how `Figma` works \
 
 **Design**  \
-`Adobe Illustrator` \
+`Adobe Illustrator` 
+\
 
 **Video montage**  \
-`Adobe Premiere Pro` \
+`Adobe Premiere Pro` 
+\
 
 ## My stats on GitHub :
 

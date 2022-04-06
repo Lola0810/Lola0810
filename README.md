@@ -38,7 +38,7 @@ I'm currently learning `Javascript`
 
 ### I do other things too :
   
-**Web designer** \
+**Web design** \
 `AdobeXD`
 Still learning how `Figma` works \
 

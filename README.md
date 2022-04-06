@@ -32,9 +32,10 @@ I'm currently learning `Javascript`
   
 ### Web design
 `AdobeXD`
-Still learning how `Figma` works \
+Still learning how `Figma` works
 
-###Design
+
+### Design
 `Adobe Illustrator` 
 
 

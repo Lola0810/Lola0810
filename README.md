@@ -4,7 +4,7 @@
 ## ❓ About me
 
 **Hi**
-**I'm french ! I'm a beginner web developer and designer. \
+**I'm french ! I'm a beginner web developer and designer.** \
 **Still a student in high school !**
 
 #### More things about me :

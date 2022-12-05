@@ -10,7 +10,7 @@
 #### More things about me :
 
 - 📂 I'm currently learning web development and 
-- 💭 If you want to contact me on discord : Tsū#1491
+- 💭 If you want to contact me on discord : Lo'#1491
 
 ## My skills
 

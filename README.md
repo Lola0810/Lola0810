@@ -5,11 +5,11 @@
 
 **Hi**
 **I'm french ! I'm a beginner web developer and designer.** \
-**Still a student in high school !**
+**Still a student in the university Institute of Technology of Lannion situated in Britain**
 
 #### More things about me :
 
-- 📂 I'm currently learning web development
+- 📂 I'm currently learning web development and 
 - 💭 If you want to contact me on discord : Tsū#1491
 
 ## My skills
@@ -31,16 +31,19 @@ I'm currently learning `Javascript`
 ## I do other things too :
   
 ### Web design
-`AdobeXD`
-Still learning how `Figma` works
+`AdobeXD`, `Figma`
 
 
 ### Design
-`Adobe Illustrator` 
+`Adobe Illustrator`
+`Affinity Photo`
+`Photoshop`
 
 
 ### Video montage
-`Adobe Premiere Pro` 
+`Adobe Premiere Pro`
+`Sony Vegas Pro`
+`Davinci Resolve`
 
 
 ## My stats on GitHub :

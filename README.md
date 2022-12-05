@@ -5,7 +5,7 @@
 
 **Hi**
 **I'm french ! I'm a beginner web developer and designer.** \
-**Still a student in the university Institute of Technology of Lannion situated in Britain**
+**Still a student at the IUT of Lannion located in Brittany**
 
 #### More things about me :
 

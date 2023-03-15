@@ -9,7 +9,7 @@
 
 #### More things about me :
 
-- 📂 I'm currently learning web development and 
+- 📂 I'm currently learning web development and design
 - 💭 If you want to contact me on discord : Lo'#1491
 
 ## My skills

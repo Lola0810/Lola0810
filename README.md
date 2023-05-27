@@ -1,10 +1,3 @@
-
-### Hi everyone !
-
-## ❓ About me
-**Hi**
-**I'm a french student at the IUT of Lannion located in Brittany**
-
 ## My skills
 ### Front-end :
 `HTML` `CSS` 

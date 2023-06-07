@@ -1,8 +1,8 @@
 ## My skills
 ### Front-end :
-`HTML` `CSS` 
+`HTML` `CSS` `Javascript`
 \
-I'm currently learning `Javascript`
+Currently learning `ReactJS`
 ### Back-end :
 `PHP` 
 ### Other languages I use :
